@@ -231,7 +231,7 @@ var cnItems = {
     "Increase Connections - 1.00e12 energy": "增加连接 - 1.00e12 能源",
     "Increase Connections - 100,000,000 energy": "增加连接 - 100,000,000 能源",
     "Quarry - Drag a resource to me!": "采石场 - 将资源拖到这里！",
-    "": "",
+    "Doubles energy gain": "双倍能源增益",
     "": "",
     "": "",
     "": "",
